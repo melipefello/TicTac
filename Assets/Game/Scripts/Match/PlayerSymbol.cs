@@ -1,0 +1,1 @@
+﻿public enum PlayerSymbol { Shield, Slash }
